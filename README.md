@@ -4,7 +4,7 @@ iQmetrix Security &amp; Trust Center
 
 This repository contains public security resources shared by **iQmetrix Software Development Corp**, including:
 
-- Vulnerability disclosure guidelines  
+- [Vulnerability disclosure guidelines](https://github.com/iQmetrix/trust-center/security)
 - Public GPG keys  
 - Security documentation  
 
