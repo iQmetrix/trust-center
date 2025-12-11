@@ -9,42 +9,59 @@ We take the security of our products, services, and customer data seriously. Thi
 
 If you believe you have discovered a security vulnerability in any iQmetrix system, product, or service, we encourage responsible disclosure.
 
-Please follow these guidelines:
+You may report vulnerabilities using either of the following methods:
 
-- Provide a detailed description of the issue, including steps to reproduce.  
-- Do not publicly disclose the vulnerability before we have had a reasonable opportunity to investigate and remediate it.  
-- Avoid accessing or modifying data belonging to others.  
-- Act in good faith to avoid privacy violations, service degradation, or disruption.
+### **1. GitHub Security Advisories (Preferred)**  
+Submit a private, secure report at:  
+🔗 https://github.com/iQmetrix/trust-center/security/advisories/new
 
-You may report vulnerabilities to our security team at:
+### **2. Email**  
+Send details to:  
+📧 **contact@iqmetrix.com**
 
-**contact@iqmetrix.com**
+When submitting a report, please include:
+
+- A detailed description of the issue  
+- Steps to reproduce the vulnerability  
+- Any relevant logs, screenshots, or proof-of-concept data  
+- Your contact information for follow-up  
+
+We request that you **do not publicly disclose** the vulnerability before remediation is completed.
 
 ---
 
 ## What to Expect
 
-When you report a vulnerability:
+When you submit a vulnerability report:
 
 1. We will acknowledge your submission within a reasonable time frame.  
-2. Our security and engineering teams will validate and investigate the report.  
-3. We will keep you informed of the remediation timeline.  
+2. Our security and engineering teams will investigate and validate the issue.  
+3. We will keep you informed of remediation progress when appropriate.  
 4. We may request additional information if required.  
-5. Once resolved, we will notify you when it is appropriate to publicly disclose the issue.
+5. Once resolved, we will notify you when coordinated public disclosure is appropriate.
 
 ---
 
-## Coordinated Disclosure
+## Non-Permitted Actions
 
-We follow a coordinated vulnerability disclosure model. More information about secure disclosure principles can be found in the Government of Canada’s guidance:
+While conducting security research, please **do not**:
 
-🔗 https://digital.canada.ca/security-notice/
+- Access, modify, or delete data that does not belong to you.  
+- Perform actions that degrade service availability (Denial of Service).  
+- Attempt social engineering against iQmetrix employees or customers.  
+- Execute or attempt physical attacks on iQmetrix offices or infrastructure.  
+- Use automated scanning tools that may disrupt service.  
+- Violate any applicable laws or regulations.
 
 ---
+
 
 ## Additional Resources
 
-For more information about our security posture, please visit our Trust Center:
+For more information about our security, privacy, compliance, and trust programs, please visit our Trust Center:
 
 🔗 https://trust.iqmetrix.com
 
+---
+
+Thank you for helping keep iQmetrix Software Development Corp secure.
