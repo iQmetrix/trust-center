@@ -1,4 +1,4 @@
-# Security Policy  
+# Vulnerability Disclosure Policy 
 ## iQmetrix Software Development Corp
 
 We take the security of our products, services, and customer data seriously. This document outlines our guidelines for reporting security vulnerabilities and how we handle coordinated disclosure.
