@@ -1,0 +1,13 @@
+# iQmetrix security contacts and policy
+
+# Our security contact channels
+Contact: mailto:contact@iqmetrix.com
+
+# Link to our vulnerability disclosure policy
+Policy: https://github.com/iQmetrix/trust-center/security
+
+# Languages that our team speaks and understands
+Preferred-Languages: en-US
+
+# Expiration date for this security.txt file
+Expires: 2027-04-30T22:52:48z
